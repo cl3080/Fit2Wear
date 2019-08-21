@@ -7,3 +7,5 @@ So, the purpose of this case study is to build a model that empowers a user to d
 
 ## Try the code
 The code for this data challenge is in the notebook folder.
+
+Stay-tuned...
