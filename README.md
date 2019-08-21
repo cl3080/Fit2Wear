@@ -5,7 +5,7 @@ You’re on the data science team at Rent the Runway. Your customers pay a month
 
 At Rent the Runway, roughly 26% of clothese don't fit well as shown in the following piechar, which can cause a significant amount of customers cancel their memberships.
 
-![True_fit_ratio](https://github.com/cl3080/Fit2Wear/blob/master/True_fit_ratio.png = 180X180)
+![True_fit_ratio](https://github.com/cl3080/Fit2Wear/blob/master/True_fit_ratio.png=180x180)
 
 So, the purpose of this case study is to build a model that empowers a user to discover whether a given item at a give size is likely to fit loosely, well, or tightly.
 
